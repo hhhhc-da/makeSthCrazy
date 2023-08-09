@@ -7,4 +7,4 @@ make.exe              : compiled executable file.
 
 print_1_To_10o5.cpp   : proceeding result file.
 
-print_1_To_10o5.cpp has 880k lines, I trying to compile it and failed :D
+print_1_To_10o5.cpp has 888k lines, I trying to compile it and failed :D
